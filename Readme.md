@@ -1,17 +1,19 @@
 
-CleanPortalEval
+## CleanPortalEval
 It is a boilerplate removal test set for portals.
  
-It is similar to CleanEval test set, but it contains more pages from the same domain.
+It is similar to CleanEval test set (http://cleaneval.sigwac.org.uk), but it contains more pages from the same domain.
 Its input and its gold standard has the same format as CleanEval has. So the evaluation script can be used on these, as well.
 
 It contains 70 pages from 4 domains.
 
 
-article:
+paper:
 http://www.gelbukh.com/polibits/2013_48/More%20Effective%20Boilerplate%20Removal%20-%20the%20GoldMiner%20Algorithm.pdf
 
-Reference
+## Reference
+If you use the tool, please cite the following paper:
+
 ```
 @article{endredy_more_2013,
 	title = {More {Effective} {Boilerplate} {Removal} - the {GoldMiner} {Algorithm}},
