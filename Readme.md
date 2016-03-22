@@ -1,14 +1,14 @@
 
-CleanPortalEval
+CleanPortalEval  
 It is a boilerplate removal test set for portals.
 
-It is similar to CleanEval test set, but it contains more pages from the same domain. Motivation of the dataset: some boilerplate removal algorithms need more sample from a domain. (e.g. GoldMiner)
+It is similar to CleanEval test set, but it contains more pages from the same domain. Motivation of the dataset: some boilerplate removal algorithms need more sample from a domain. (e.g. GoldMiner)  
 Its input and its gold standard has the same format as CleanEval has. So the evaluation script can be used on these, as well.
 
 It contains 70 pages from 4 domains.
 
-Reference
-If you use the tool, please cite the following paper:
+Reference  
+If you use the tool, please cite the following paper:  
 
 ```
 @article{endredy_more_2013,
@@ -25,5 +25,5 @@ If you use the tool, please cite the following paper:
 }
 ```
 
-paper:
+paper:  
 http://www.gelbukh.com/polibits/2013_48/More%20Effective%20Boilerplate%20Removal%20-%20the%20GoldMiner%20Algorithm.pdf
